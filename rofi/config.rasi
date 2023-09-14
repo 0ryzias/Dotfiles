@@ -1,0 +1,8 @@
+configuration{
+    display-drun: "Apps:";
+    drun-display-format: "{icon} {name}";
+    font: "JetBrainsMonoNerdFont 12";
+    show-icons: true;
+    icon-theme: "Tela circle nord dark";
+}
+@theme "/home/oryzias/.config/rofi/black.rasi"
